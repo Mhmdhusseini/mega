@@ -1,0 +1,14 @@
+D:\megaa\megaa\bin\Debug\net8.0\megaa.exe
+D:\megaa\megaa\bin\Debug\net8.0\megaa.deps.json
+D:\megaa\megaa\bin\Debug\net8.0\megaa.runtimeconfig.json
+D:\megaa\megaa\bin\Debug\net8.0\megaa.dll
+D:\megaa\megaa\bin\Debug\net8.0\megaa.pdb
+D:\megaa\megaa\obj\Debug\net8.0\megaa.GeneratedMSBuildEditorConfig.editorconfig
+D:\megaa\megaa\obj\Debug\net8.0\megaa.AssemblyInfoInputs.cache
+D:\megaa\megaa\obj\Debug\net8.0\megaa.AssemblyInfo.cs
+D:\megaa\megaa\obj\Debug\net8.0\megaa.csproj.CoreCompileInputs.cache
+D:\megaa\megaa\obj\Debug\net8.0\megaa.dll
+D:\megaa\megaa\obj\Debug\net8.0\refint\megaa.dll
+D:\megaa\megaa\obj\Debug\net8.0\megaa.pdb
+D:\megaa\megaa\obj\Debug\net8.0\megaa.genruntimeconfig.cache
+D:\megaa\megaa\obj\Debug\net8.0\ref\megaa.dll
