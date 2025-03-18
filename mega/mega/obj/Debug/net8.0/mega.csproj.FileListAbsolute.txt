@@ -1,0 +1,14 @@
+D:\mega\mega\bin\Debug\net8.0\mega.exe
+D:\mega\mega\bin\Debug\net8.0\mega.deps.json
+D:\mega\mega\bin\Debug\net8.0\mega.runtimeconfig.json
+D:\mega\mega\bin\Debug\net8.0\mega.dll
+D:\mega\mega\bin\Debug\net8.0\mega.pdb
+D:\mega\mega\obj\Debug\net8.0\mega.GeneratedMSBuildEditorConfig.editorconfig
+D:\mega\mega\obj\Debug\net8.0\mega.AssemblyInfoInputs.cache
+D:\mega\mega\obj\Debug\net8.0\mega.AssemblyInfo.cs
+D:\mega\mega\obj\Debug\net8.0\mega.csproj.CoreCompileInputs.cache
+D:\mega\mega\obj\Debug\net8.0\mega.dll
+D:\mega\mega\obj\Debug\net8.0\refint\mega.dll
+D:\mega\mega\obj\Debug\net8.0\mega.pdb
+D:\mega\mega\obj\Debug\net8.0\mega.genruntimeconfig.cache
+D:\mega\mega\obj\Debug\net8.0\ref\mega.dll
